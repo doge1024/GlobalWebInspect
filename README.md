@@ -2,6 +2,9 @@
 
 Enable WebView inspector for all iOS apps, requires jailbreak
 
+## 直接使用
+deb 文件在 ./packages 目录下
+
 ## Usage
 
 * Enable WebInspector in Preferences
